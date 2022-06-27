@@ -1,10 +1,10 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
+  "title": "Okipo 観光マップ",
+  "description": "沖縄県内の観光スポットを地図で見ることができます。\nOkipoサイトに掲載されている観光スポットのみご覧いただけます。",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
+  "logo_image_url": "https://okipo.github.io/maps/okipo-logo.png",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
-  "primary_color": "#d2691e",
+  "primary_color": "#5F9EA0",
   "orderby": "distance",
   "id": "geoloniamaps",
   "repository": "pwamap"
